@@ -1,0 +1,5 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export SSH_AUTH_SOCK:/Users/rciliberto/\x2ebitwarden\x2dssh\x2dagent\x2esock
+SETUVAR __fish_initialized:4300
+SETUVAR fish_user_paths:/Users/rciliberto/\x2elocal/bin\x1e/opt/homebrew/sbin\x1e/opt/homebrew/bin
